@@ -1,0 +1,15 @@
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\bin\Debug\CRUD_en_WindowsForms_.NET.exe.config
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\bin\Debug\CRUD_en_WindowsForms_.NET.exe
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\bin\Debug\CRUD_en_WindowsForms_.NET.pdb
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\bin\Debug\EntityFramework.dll
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\bin\Debug\EntityFramework.xml
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\obj\Debug\CRUD_en_WindowsForms_.NET.csprojAssemblyReference.cache
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\obj\Debug\CRUD_en_WindowsForms_.NET.Form1.resources
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\obj\Debug\CRUD_en_WindowsForms_.NET.Properties.Resources.resources
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\obj\Debug\CRUD_en_WindowsForms_.NET.csproj.GenerateResource.cache
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\obj\Debug\CRUD_en_WindowsForms_.NET.csproj.CopyComplete
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\obj\Debug\CRUD_en_WindowsForms_.NET.exe
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\obj\Debug\CRUD_en_WindowsForms_.NET.pdb
+C:\Users\C3za1\source\repos\CRUD_en_WindowsForms_.NET\obj\Debug\CRUD_en_WindowsForms_.NET.Presentation.FrmTabla.resources
